@@ -1,3 +1,5 @@
 *.json
 dataset/
 models/*
+encoders/
+*.csv
