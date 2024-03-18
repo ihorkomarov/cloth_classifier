@@ -3,3 +3,4 @@ dataset/
 models/*
 encoders/
 *.csv
+*.keras
