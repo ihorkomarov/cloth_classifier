@@ -1,5 +1,5 @@
 # Cloth Classifier
-The TechLabs project presented by **lostInPix Classifier Squad**
+The TechLabs project presented by Group 1: **lostInPix Classifier Squad**
 ### Our project idea in one sentence: 
 With one photo we can fully categorize a piece of clothe into several atributtes
 ### This is our motivation behind it: 
@@ -7,4 +7,4 @@ Most of the time when you lose something and want to search in a lost and found,
 ### This is what a final result of the project might look like:
 You take a picture of a piece of clothe and our model correctly categorize it with different attributes that match what you would like to search for
 ### Dataset used for this project:
-https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset 
+https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-small
